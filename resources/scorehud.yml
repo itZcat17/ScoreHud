@@ -36,14 +36,18 @@ titles:
   period: 5
 
   # A simple title that will be displayed for scoreboard.
-  title: "§l§aServer §dName"
+  title: "§l§6 cat smp
 
   # Changing titles. Add as many as you desire.
   lines:
-  - "§l§aServer §dName"
-  - "§l§bServer §cName"
-  - "§l§cServer §bName"
-  - "§l§dServer §aName"
+- " §3 name "
+- " §l§f>>§r§f {name} "
+- " §l§3 online"
+- " §l§f>>§r§f {online} "
+- " §4 Rank"
+- " §l§f>>§r§f {rank} "
+- " §3 money"
+- " §l§f>>§r§f {Money}"
 
 # ==================
 # IMPORTANT NOTE:
